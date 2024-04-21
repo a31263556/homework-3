@@ -3,7 +3,7 @@ import pack.modu as lib
 
 def display_menu():
     """
-    顯示操作菜單
+    顯示操作選單
     """
     print("-------------------")
     print("    資料表 CRUD")
